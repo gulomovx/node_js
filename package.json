@@ -1,0 +1,19 @@
+{
+  "name": "node_js",
+  "version": "1.0.0",
+  "description": "node js",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "keywords": [
+    "node",
+    "js"
+  ],
+  "author": "developer",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "nodemon": "^3.1.0"
+  }
+}
